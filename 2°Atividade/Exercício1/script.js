@@ -7,7 +7,7 @@ function calcular() {
     //Processamento
     var n1 = Number(a.value)
     var n2 = Number(b.value)
-    var n3 = Number(b.value)
+    var n3 = Number(c.value)
     var valor = n1 + n2 + n3
     //Saída
     res.innerHTML = `A soma é ${valor}`
